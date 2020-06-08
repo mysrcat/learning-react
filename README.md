@@ -12,3 +12,7 @@ This projects shows an example of hardcoded blog comments that are made using re
 ## Seasons
 This projects simply gets your browser's location and displays a cute image based on the location's season. This has a great example of how to do a loading screen.<br>
 <img  src="seasons/public/runtime.png"><br>
+
+## Pics
+This project allows the user to search for images and displays the results in a grid.<br>
+<img  src="pics/public/runtime.png"><br>
